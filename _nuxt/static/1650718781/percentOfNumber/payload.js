@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/percentOfNumber", {data:[{}],fetch:{},mutations:void 0});
